@@ -1,7 +1,7 @@
+[![@harshdev625's Holopin board](https://holopin.me/harshdev625)](https://holopin.io/@harshdev625)
 <h1 align="center">Hi 👋, I'm Harsh Dev</h1>
 <h1 align="center">A Competitive Programmer from India.</h1>
-###
-[![@harshdev625's Holopin board](https://holopin.me/harshdev625)](https://holopin.io/@harshdev625)
+
 <!--
 **Harshdev625/Harshdev625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
