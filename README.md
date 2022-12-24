@@ -1,7 +1,7 @@
-<!-- ![MasterHead](https://media.tenor.com/r77Sc4J25JMAAAAC/banner.gif)  -->
-<!-- ![MasterHead](https://i.makeagif.com/media/10-14-2020/JIIvbT.gif) -->
+<!-- ![MasterHead](https://media.tenor.com/r77Sc4J25JMAAAAC/banner.gif) 
+![MasterHead](https://i.makeagif.com/media/10-14-2020/JIIvbT.gif)
 ![MasterHead](https://giffiles.alphacoders.com/206/206045.gif)
-![MasterHead](https://giffiles.alphacoders.com/306/3060.gif)
+![MasterHead](https://giffiles.alphacoders.com/306/3060.gif) -->
 [![@harshdev625's Holopin board](https://holopin.me/harshdev625)](https://holopin.io/@harshdev625)
 <h1 align="center">Hi 👋, I'm Harsh Dev</h1>
 <h3 align="center">A passionate competitive Programmer and frontend developer from India</h3>
